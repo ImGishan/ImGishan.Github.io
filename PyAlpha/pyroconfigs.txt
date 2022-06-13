@@ -1,4 +1,3 @@
-Pyrogram
 {"sbtn":"InlineKeyboardMarkup([[              
                  InlineKeyboardButton('Alpha Devs', url="https://t.me/Team_Alpha_Devs")
                  ],
