@@ -1,0 +1,9 @@
+{
+"dev":"https://t.me/Team_Alpha_Devs",
+"soures":"https://github.com/TeamAlphaTg",
+"chnl":"┊𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』",
+"chnlurl":"https://t.me/AlphaTm_Botz",
+"support":"┊𝙰𝙻𝙿𝙷𝙰 Botz Chat",
+"supturl":"https://t.me/AlphaTm_Botz_chat",
+"owner":"imgishan","t.me/imgishan"
+}
