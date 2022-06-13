@@ -5,4 +5,5 @@
 "chnlurl":"https://t.me/AlphaTm_Botz",
 "support":"┊𝙰𝙻𝙿𝙷𝙰 Botz Chat",
 "supturl":"https://t.me/AlphaTm_Botz_chat",
+"owner":"imgishan","t.me/imgishan"
 }
