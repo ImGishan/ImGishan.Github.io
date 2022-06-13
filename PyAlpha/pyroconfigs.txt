@@ -1,5 +1,5 @@
 {
-"dev":"https://t.me/Team_Alpha_Devs",
+"devs":"https://t.me/Team_Alpha_Devs",
 "soures":"https://github.com/TeamAlphaTg",
 "chnl":"┊𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』",
 "chnlurl":"https://t.me/AlphaTm_Botz",
