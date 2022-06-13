@@ -1,12 +1,1 @@
-{"sbtn":"InlineKeyboardMarkup([[              
-                 InlineKeyboardButton('Alpha Devs', url="https://t.me/Team_Alpha_Devs")
-                 ],
-                 [
-                 InlineKeyboardButton(text="🌴 ʜᴇʟᴘ 🌴",callback_data="hlp"),
-                 InlineKeyboardButton("🍄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🍄", url="https://github.com/TeamAlphaTg")
-                 ],
-                 [
-                 InlineKeyboardButton("┊𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』", url="https://t.me/AlphaTm_Botz"),
-                 InlineKeyboardButton("Support - ┊𝙰𝙻𝙿𝙷𝙰 Botz Chat ", url="https://t.me/AlphaTm_Botz_chat")
-                 ]]
-                  )"}
+{"sbtn":"InlineKeyboardMarkup([[\nInlineKeyboardButton('Alpha Devs', url="https://t.me/Team_Alpha_Devs")\n],\n[\nInlineKeyboardButton(text="🌴 ʜᴇʟᴘ 🌴",callback_data="hlp"),\nInlineKeyboardButton("🍄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🍄", url="https://github.com/TeamAlphaTg")\n],\n[\nInlineKeyboardButton("┊𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』", url="https://t.me/AlphaTm_Botz"),\nInlineKeyboardButton("Support - ┊𝙰𝙻𝙿𝙷𝙰 Botz Chat ", url="https://t.me/AlphaTm_Botz_chat")\m]]\m)"}
