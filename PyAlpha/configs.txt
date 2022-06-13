@@ -6,7 +6,7 @@
 "support":"┊𝙰𝙻𝙿𝙷𝙰 Botz Chat",
 "supturl":"https://t.me/AlphaTm_Botz_chat",
 "owner":"imgishan",
-"pstbtn":"InlineKeyboardMarkup([[              
+"pstbtn":"""InlineKeyboardMarkup([[              
                  InlineKeyboardButton('DEVS', url="https://t.me/Team_Alpha_Devs")
                  ],
                  [
@@ -17,5 +17,5 @@
                  InlineKeyboardButton("┊𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』", url="https://t.me/AlphaTm_Botz"),
                  InlineKeyboardButton("Support - ┊𝙰𝙻𝙿𝙷𝙰 Botz Chat ", url="https://t.me/AlphaTm_Botz_chat")
                  ]]
-                  )"
+                  )"""
 }
