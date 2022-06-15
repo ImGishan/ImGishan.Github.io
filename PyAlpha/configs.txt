@@ -6,6 +6,4 @@
 "support":"┊𝙰𝙻𝙿𝙷𝙰 Botz Chat",
 "supturl":"https://t.me/AlphaTm_Botz_chat",
 "owner":"imgishan"
-"sbtn":"InlineKeyboardMarkup([[\nInlineKeyboardButton('DEVS', url=f"{dev}")\n],\n[\nInlineKeyboardButton(text="🌴 ʜᴇʟᴘ 🌴",callback_data="hlp"),\nInlineKeyboardButton("🍄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🍄", url="https://github.com/TeamAlphaTg/MemehubtgSl_Bot")\n],\n[\nInlineKeyboardButton("➕ sʜᴀʀᴇ ➕", switch_inline_query="share"),\nInlineKeyboardButton("➕ sʜᴀʀᴇ ᴄʜɴʟ ➕", switch_inline_query="cshare")\n],
-\n[\nInlineKeyboardButton("┊𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』", url="https://t.me/AlphaTm_Botz"),\nInlineKeyboardButton("Support - ┊𝙰𝙻𝙿𝙷𝙰 Botz Chat ", url="https://t.me/AlphaTm_Botz_chat")\n]]"
 }
