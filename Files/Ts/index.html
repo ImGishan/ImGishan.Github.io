@@ -2,6 +2,7 @@
 <html>
 
 <head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<style>
 		body {
 			margin: 100px;
@@ -21,15 +22,24 @@
 			position: absolute;
 		}
 
+        btn {
+			width: 10vw;
+			height: 10px;
+			margin-top: 120px;
+			margin-left: 50px;
+			background-color: red;
+			color: white;
+			border-radius: 10px;
+			box-shadow: grey;
+			position: absolute;
+		}
 		#sample {
 			width: 70vw;
 			margin: 50px;
 			background-color: red;
 			color: white;
-			padding: 20px;
-			font-size: x-large;
 			border-radius: 10px;
-			position: absolute;
+
 		}
 
 		h1 {
@@ -40,13 +50,26 @@
 </head>
 
 <body>
-	<center><div id="sample">
-		Top Secret ⚠️ 
-	</div></center>
+
 	<br />
 	
-	<button onclick="copyText()">HE HE</button>
-	<br />	
+		<div>
+	  <button type="button"
+			  onclick='copyText();'>Top Secret ⚠️</button>
+
+	  <button id="btn" onclick="alert('I Told You!');">Top Secret ⚠️</button>
+	</div>
+
+	<script>
+	  function toggle() {
+  var x = document.getElementById("btn");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+	</script>
 	<script>
 		function copyText() {
 	
@@ -55,6 +78,19 @@
 				("1BVtsOGgBu6K9ybrypTy4p2IzJfcO1MsMv_pn-qW_3m0Erc8jjeVTUcVcI81MtrN6yrmYuaAueMfBQHSQC767K1QoG_CjG_6jP5jdL5LD6btO5ZTRxvwuj9LMAWo1RButj1xoF2I-6cQMbrqG9r6cknnsD6XVAIEPzQy5D8zgJKDguCnHJhDCvS0qWdKArTdmLvpsHddH6n3_wLXzZK-K1m9HSwpfwyXotsQKUKFzgzISHlgxUbmzAJGOTCVmNCMhIxiWMgwfO4vChKHIIKHylo-l7pHKvQZ2Q4Xc65-cuQ9TAw46MzzfVjyeHZGx7Bi0AzAZFHMPYqQxzO-1SGI2d_QJvk1N9Ls=");
 		}
 	</script>
+	<br /><br />
+	<br /><br />
+	<br /><br />
+	<br /><br />
+	<br /><br />
+	<br /><br />
+    <br /><br />
+	<br /><br />
+	<button onclick="imgishan.github.io" class="btn"><i class="fa fa-bars"></i></button>
+	<br /><br />
+	<br />
+	<button onclick="toggle();" class="btn"><i class="fa fa-close"></i></button>
+
 </body>
 
 </html>
