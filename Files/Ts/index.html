@@ -50,7 +50,39 @@
 </head>
 
 <body>
+        <br />
+	
+		<div>
+	  <button type="button"
+			  onclick='copyext();'>Backup G-codes</button>
 
+	  <button id="btn" onclick="alert('Dont Touch!');">Backup G-codes</button>
+	</div>
+
+	<script>
+	  function toggle() {
+  var x = document.getElementById("btn");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+	</script>
+	<script>
+		function copyext() {
+	
+			/* Copy text into clipboard */
+			navigator.clipboard.writeText
+				('5168 7237		8708 5266		4926 5914		0911 6208		6257 9201		3843 2535		4506 5020		6466 4523		9679 5712		3161 7440');
+		}
+	</script>
+	<br /><br />
+	<br /><br />
+	<br /><br />
+	<br /><br />
+	<br /><br />
+	<br /><br />
 	<br />
 	
 		<div>
