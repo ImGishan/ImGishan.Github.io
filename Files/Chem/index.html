@@ -6,10 +6,19 @@
 <link rel="icon" href="https://github.com/ImGishan/ImGishan.Github.io/blob/main/assets/img2.jpg" 
 </head>
 <body>
+const gifUrls = [
+    "https://i.gifer.com/3RFR.gif",
+    "https://i.gifer.com/1qsy.gif"
+    "https://i.gifer.com/5JC.gif"
+    "https://i.gifer.com/V8qR.gif"
+];
+
+const randomIndex = Math.floor(Math.random() * gifUrls.length);
+const selectedGif = gifUrls[randomIndex];	
   <style>
 		body {
 			margin: 100px;
-            background-image: url("https://i.gifer.com/1qsy.gif");
+            background-image: url(${selectedGif});
 		}
 
 
