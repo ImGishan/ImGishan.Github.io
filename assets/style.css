@@ -13,7 +13,7 @@ body{
 }
 
 body.dark {
-	background-image: url('https://github.com/ImGishan/ImGishan.Github.io/blob/80669f3be5d4bae6bc12c7601beb2d1ec40c9bac/assets/red_Matrix.gif');
+	background-image: url('../assets/red_Matrix.gif');
 }
 
 body.light {
